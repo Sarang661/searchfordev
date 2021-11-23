@@ -147,7 +147,8 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
+# git pull origin master 
+# git push -u origin master      
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
 
